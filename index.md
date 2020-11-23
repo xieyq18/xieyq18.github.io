@@ -1,3 +1,5 @@
+### Welcome to my homepage!
+<div>
 <table border="0">
   <tr>
     <td width="75%">
@@ -12,3 +14,11 @@
     </td>
   </tr>
 </table>
+</div>
+
+### Research Interests
+- Operations Research
+- Operations Management
+- Optimazition
+
+### Academic Experinces
