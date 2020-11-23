@@ -17,12 +17,12 @@
 </div>
 
 ## Research Interests
-<font size = 2> Operations Research, Operations Management, Optimization, Stochastic Simulation </font>
+Operations Research, Operations Management, Optimization, Stochastic Simulation </font>
 
 ## Research Experience
-<font size = 2> **Seat Preference with Dynamic Surcharge** 
+ _Seat Preference with Dynamic Surcharge_\\
 
-*June, 2020 - Present.   Advisor: Prof. Zizhuo Wang, School of Data Science, CUHK*
+_June, 2020 - Present.   Advisor: Prof. Zizhuo Wang, School of Data Science, CUHK_
 
 We consider a revenue management problem arising from airline seat selection fees: passengers with seat preference are charged surcharge.
 The new feature of our problem is that customers arrive with request for itinerary, 
@@ -38,8 +38,8 @@ Finally, we introduce a re-solving a dynamic primal policy in the alternative se
 Numerical experiments show performance of these algorithms in different parameter settings.
 
 
-</font>
-<font size = 2><a href="https://drive.google.com/file/d/1uIkFcRv_spVqaHo_52Y8-w3vdmNcg7Ki/view?usp=sharing" target="_blank">Draft paper</a>
+
+<a href="https://drive.google.com/file/d/1uIkFcRv_spVqaHo_52Y8-w3vdmNcg7Ki/view?usp=sharing" target="_blank">Draft paper</a>
 planning to submit to *Management Science*
 
 
