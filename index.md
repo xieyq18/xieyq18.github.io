@@ -69,6 +69,7 @@ Then we use classifiers, mainly including SVM, KNN and TREE, to train machine an
 compared results of different features and classifiers and concluded the best combination on this dataset.
 
 </font>
+
 ## Skills 
 - Computer Languages: MATLAB, C, R, Python, Latex
 
