@@ -40,6 +40,7 @@ Numerical experiments show performance of these algorithms in different paramete
 
 
 </font>
+
 <font size = 2><a href="https://drive.google.com/file/d/1uIkFcRv_spVqaHo_52Y8-w3vdmNcg7Ki/view?usp=sharing" target="_blank">Draft paper</a>
 planning to submit to *Management Science*
 
@@ -70,6 +71,7 @@ Then we use classifiers, mainly including SVM, KNN and TREE, to train machine an
 compared results of different features and classifiers and concluded the best combination on this dataset.
 
 </font>
+
 ## Skills 
 Computer Languages: MATLAB, C, R, Python, Latex
 
